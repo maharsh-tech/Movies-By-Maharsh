@@ -42,7 +42,7 @@ async def start(bot: Client, message: Message):
         try:
             last_id = message.id
             start_message = (
-                "🔄 Please perform this action only once at the beginning of Surf-Tg usage.\n\n"
+                "🔄 Please perform this action only once at the beginning of Movies By Maharsh usage.\n\n"
                 "📋 File listing is currently in progress.\n\n"
                 "🚫 Please refrain from sending any additional files or indexing other channels until this process completes.\n\n"
                 "⏳ Please be patient and wait a few moments."
